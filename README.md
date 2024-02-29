@@ -4,9 +4,9 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
-### 👀 I’m interested in coding. 
+### 👀 I’m open to work as a student intern. 
 
-### 🌱 I’m currently learning Web development & Java language. 
+### 🌱 I’m currently practicing MERN/Full Stack Web Development & learning DSA with Java language. 
 
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
@@ -25,7 +25,7 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=Rayan9064&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 <a style="" href="https://github.com/Rayan9064">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan9064&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
 
@@ -68,73 +68,20 @@ Projects
 -------------
 
 Airbnb Project <br>
-Live link 	-> [https://airbnb-major-project-jack.onrender.com](https://wanderlust-gdzz.onrender.com/listings) <br>
-Github link 	-> https://github.com/akashdeep023/Airbnb_Project (Private Complete) <br>
-Github link	-> https://github.com/akashdeep023/MAJOR_PROJECT (Public UnComplete)
+Live link 	-> https://wanderlust-gdzz.onrender.com/listings <br>
+Github link 	-> https://github.com/Rayan9064/Wanderlust<br>
 
-Food Plaza <br>
-Live link	-> https://food-plaza-jack.netlify.app/ <br>
-Github link	-> 
-
-Netflix Gpt <br>
-Live link 	-> https://netflix-gpt-jack.firebaseapp.com/ || https://netflix-gpt-jack.netlify.app/ <br>
-Github link	-> 
-
-Mini Major Project
-------------------
+Tic Tac Toe <br>
+Github link	-> https://github.com/Rayan9064/Tic-Tac-Toe
 
 Weather Widget <br>
-Live link 	-> https://weather-widget-jack.netlify.app/ <br>
-Github link 	-> https://github.com/akashdeep023/Weather_Widget (Public Complete)
-
-SimonSay Game Js <br>
-Live link 	-> https://akashdeep023.github.io/SimonSay_Game/ <br>
-Github link 	-> https://github.com/akashdeep023/SimonSay_Game (Public Complete)
+Github link 	-> https://github.com/Rayan9064/Weather-App
 
 Amazon Clone <br>
-Live link 	-> https://akashdeep023.github.io/Amazon-Clone/ <br>
-Github link 	-> https://github.com/akashdeep023/Amazon-Clone (Publick Complete)
+Github link 	-> https://github.com/Rayan9064/AmazonClone (Not responsive)
 
 Spotify Clone <br>
-Live link 	-> https://akashdeep023.github.io/Spotify-Clone/ <br>
-Github link 	-> https://github.com/akashdeep023/Spotify-Clone (Public Complete) 	(Not Responsive)
-
-WhatApp Chat <br>
-Live link 	->  <br>
-Github link	-> 
-
-ToDo Game Redux <br>
-Live link 	->  https://todo-list-jack.netlify.app/ <br>
-Github link 	-> https://github.com/akashdeep023/ToDo-List-Redux
-
-ToDo Game React <br>
-Live link 	-> https://task-list-jack.netlify.app/ <br>
-Github link 	-> https://github.com/akashdeep023/ToDo-List-React (Public Complete)
-
-ToDo Game Js <br>
-Live link 	-> https://akashdeep023.github.io/ToDo_Game/ <br>
-Github link 	-> https://github.com/akashdeep023/ToDo_Game_Js (Public Complete)
-
-Lottery Game <br>
-Live link 	-> https://lottery-game-jack.netlify.app/ <br>
-Github link 	-> https://github.com/akashdeep023/Lottery-Game (Public Complete)
-
-Small Project
--------------
-
-Css Mini Project <br>
-Live link 	-> https://akashdeep023.github.io/CSS-Mini-Project/ <br>
-Github link 	-> https://github.com/akashdeep023/CSS-Mini-Project (Public Complete)
-
-Insta Story Js <br>
-Live link 	-> https://akashdeep023.github.io/Insta_Story_Js/  <br>
-Github link 	-> https://github.com/akashdeep023/Insta_Story_Js (Public Complete)
-
-Card Project Js <br>
-Live link 	-> https://akashdeep023.github.io/Card_Project_Js/ <br>
-Github link 	-> https://github.com/akashdeep023/Card_Project_Js (Public Complete)
-
----
+Github link 	-> https://github.com/Rayan9064/Spotify_Clone
 
 <a href="https://github.com/Rayan9064">
   <img src="https://imgur.com/rilHVxA.png"/>
