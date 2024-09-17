@@ -4,9 +4,9 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
-### 👀 I’m open to work as a student intern. 
+### 👀 I’m open to work as a student intern or freelancer. 
 
-### 🌱 I’m currently practicing MERN/Full Stack Web Development & learning DSA with Java language. 
+### 🌱 I’m a Full Stack Web Development. 
 
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
