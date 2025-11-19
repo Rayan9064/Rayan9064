@@ -6,7 +6,7 @@
 
 ### 👀 I’m open to work or collaboration. 
 
-### 🌱 I’m a Full Stack Web Development. 
+### 🌱 I’m a Full Stack Developer. 
 
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
