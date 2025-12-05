@@ -24,25 +24,25 @@
 
 ##  Let's connect :speech_balloon:
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) --> 
-[<img src="https://img.shields.io/badge/-Rayan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/mohammed-rayan-3a337425a/)
+[<img src="https://img.shields.io/badge/-Rayan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/rayan9064/)
 [<img src="https://img.shields.io/badge/-mohammedrayan9064@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:mohammedrayan9064@gmail.com) 
 [<img src="https://img.shields.io/github/followers/Rayan9064?label=Rayan9064&style=social" height="32" title="Follow me" />](https://github.com/Rayan9064) 
 </br></br>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohammed-rayan-3a337425a/" target="_blank">
+  <a href="https://www.linkedin.com/in/rayan9064/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://twitter.com/rayan9064" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
   </a>
-  <a href="https://discord.com/users/jack_1897" target="_blank">
+  <a href="https://discord.com/users/rayan_9064" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
   <a href="mailto:mohammedrayan9064@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://t.me/rayan1897" target="_blank">
+  <a href="https://t.me/rayan9064" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
   </a>
 </div>
@@ -68,7 +68,7 @@
 
 ## Languages and Tools:
 <span> 
-<!--   <a href="https://github.com/Rayan9064">
+  <!-- <a href="https://github.com/Rayan9064">
 <!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    -->
 <!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    -->
 <!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    
