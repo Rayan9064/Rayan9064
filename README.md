@@ -40,11 +40,11 @@ I'm always eager to learn, collaborate, and contribute to exciting open-source a
   <a href="https://t.me/rayan9064" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo"/></a>
 </div>
 
-## 💻 Some stats
+<br>
+<!-- ## 💻 Some stats -->
 
 
-<div align="center">
-  <!-- API-backed images sometimes fail; alt text added to show status when they don't load -->
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/rayan9064/count.svg" alt="Profile visit counter (if this image is blank the API is currently unavailable)" width="220" />
 </div>
 
@@ -55,7 +55,38 @@ I'm always eager to learn, collaborate, and contribute to exciting open-source a
   <a href="https://github.com/Rayan9064" aria-label="Top languages">
     <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan9064&theme=tokyonight&layout=donut-vertical" alt="Top languages (if blank the API may be unavailable)" />
   </a>
-</div>
+</div> -->
+
+
+<div>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
+
+
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <span>
+      <a href="https://rayan9064.dev">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rayan9064&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="https://rayan9064.dev">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=rayan9064&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+      </a>
+    </span>
+    <span>
+      <a href="https://rayan9064.dev">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=rayan9064&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href="https://rayan9064.dev">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rayan9064&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
 
 ## Languages and Tools
 
@@ -86,7 +117,7 @@ A fast, simple paste-and-share web app for text and code snippets. Great for qui
 
 ---
 
-### 📚 LMS — Learning Management System
+### 📚 LMS — Learning Management System | (Built during Internship, currently live)
 A modern Learning Management System (LMS) that lets instructors create courses, students enroll and track progress, and admins manage content and users. Built for scalability and a smooth learning experience.
 
 🔗 Live Site: https://www.cloudinstitution.in/ | 💻 GitHub Repository: https://github.com/Rayan9064/lms
