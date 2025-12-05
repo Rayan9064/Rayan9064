@@ -19,6 +19,8 @@
 
 ## About me
 
+Portfolio: https://rayan9064.dev
+
 I'm Mohammed Rayan A, a full-stack web developer and cloud enthusiast from Bangalore, India. I'm currently studying at St. Francis College, Bangalore and enjoy building practical apps that solve real problems. I focus on JavaScript/TypeScript, React/Next.js, Node.js, and cloud platforms.
 
 I'm always eager to learn, collaborate, and contribute to exciting open-source and startup ecosystems. 🚀
@@ -40,13 +42,19 @@ I'm always eager to learn, collaborate, and contribute to exciting open-source a
 
 ## 💻 Some stats
 
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rayan9064/count.svg" />
+  <!-- API-backed images sometimes fail; alt text added to show status when they don't load -->
+  <img src="https://profile-counter.glitch.me/rayan9064/count.svg" alt="Profile visit counter (if this image is blank the API is currently unavailable)" width="220" />
 </div>
 
-<div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
-  <a href="https://github.com/Rayan9064"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayan9064&show_icons=true&theme=tokyonight&rank_icon=github"/></a>
-  <a href="https://github.com/Rayan9064"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan9064&theme=tokyonight&layout=compact"/></a>
+<div style="display:flex; gap:16px; align-items:flex-start; justify-content:space-around; flex-wrap:wrap;">
+  <a href="https://github.com/Rayan9064" aria-label="GitHub stats">
+    <img height="220" src="https://github-readme-stats.vercel.app/api?username=Rayan9064&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats (if blank the API may be unavailable)" />
+  </a>
+  <a href="https://github.com/Rayan9064" aria-label="Top languages">
+    <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan9064&theme=tokyonight&layout=donut-vertical" alt="Top languages (if blank the API may be unavailable)" />
+  </a>
 </div>
 
 ## Languages and Tools
@@ -70,27 +78,33 @@ I'm always eager to learn, collaborate, and contribute to exciting open-source a
 
 ## 🛠 Projects
 
-### 🔗 MedBlock
-A decentralized medical record system built on Solana, using IPFS for file storage and NFT-based access control. Designed for secure, interoperable exchange of patient health data.
+### 🚀 DumpIt (Main Project)
+A fast, simple paste-and-share web app for text and code snippets. Great for quickly sharing logs, config, or short snippets.
 
-Live Site: https://medblock-olive.vercel.app | Repo: https://github.com/Rayan9064/MedBlock
+🔗 Live Site: https://dumpit-three.vercel.app/ | 💻 GitHub Repository: https://github.com/Rayan9064/dumpit
+
+
+---
+
+### 📚 LMS — Learning Management System
+A modern Learning Management System (LMS) that lets instructors create courses, students enroll and track progress, and admins manage content and users. Built for scalability and a smooth learning experience.
+
+🔗 Live Site: https://www.cloudinstitution.in/ | 💻 GitHub Repository: https://github.com/Rayan9064/lms
+
+---
+
+### 🔗 MedBlock
+A decentralized medical record system built on **Solana**, using **IPFS** for file storage and **NFT-based access control**. Designed for secure, interoperable exchange of patient health data.
+
+🔗 Live Site: https://medblock-olive.vercel.app | 💻 GitHub Repository: https://github.com/Rayan9064/MedBlock
 
 ---
 
 ### 🛒 Mr. Brushee
-A sleek, single-page e-commerce website built with Next.js, integrated with Stripe for payments, Google Sheets as a lightweight CMS, and GCP for sending secure order confirmations.
+A sleek, single-page e-commerce site built with **Next.js**, integrated with **Stripe** for payments and **Google Sheets** as a lightweight CMS.
 
-Live Site: https://mr-brushee.vercel.app | Repo: https://github.com/Rayan9064/MrBrushee
-
----
-
-### 📦 DumpIt
-A lightweight clipboard/paste sharing tool for quickly dumping text or code snippets and getting a sharable link. Built with a focus on speed, simplicity, and privacy.
-
-Repo: https://github.com/Rayan9064/DumpIt
+🔗 Live Site: https://mr-brushee.vercel.app | 💻 GitHub Repository: https://github.com/Rayan9064/MrBrushee
 
 ---
 
 <a href="https://github.com/Rayan9064"><img src="https://imgur.com/rilHVxA.png" alt="projects image"/></a>
-
----
