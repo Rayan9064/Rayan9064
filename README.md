@@ -10,7 +10,7 @@
 - 🌱 Full Stack Developer — building web and cloud-native apps
 - ✨ Creating bugs since 2023
 - 📚 Currently exploring Cybersecurity, GenAI, AIML
-- 🎯 Goals: contribute to impactful OSS, build scalable SaaS tools, and land a remote internship
+- 🎯 Goals: contribute to impactful OSS, build scalable SaaS tools, and land a remote job
 - ✨ Interests: Cybersecurity, Web & App Development, Research in CS area, AIML and tech in general
 - 🎲 Fun fact: I sometimes build full-stack apps just to automate my own laziness 😄
 
